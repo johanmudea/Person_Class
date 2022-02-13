@@ -1,0 +1,52 @@
+
+X
+java:S18549";Remove this useless assignment to local variable "altura2".(ªè†8û¹©ï/
+V
+java:S18546"9Remove this useless assignment to local variable "peso2".(¼Ù8ü¹©ï/
+[
+java:S18545"9Remove this useless assignment to local variable "peso3".(©ÜÙÜúÿÿÿÿ8ı¹©ï/
+[
+java:S1854"9Remove this useless assignment to local variable "peso1".(äˆÉßÿÿÿÿÿ8ş¹©ï/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÄÎáåıÿÿÿÿ8×º©ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡²’™8Úº©ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼’ıª8Ûº©ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¥³„8ßº©ï/
+L
+java:S1481"*Remove this unused "peso1" local variable.(äˆÉßÿÿÿÿÿ8ãº©ï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(â²»şûÿÿÿÿ8æº©ï/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¶¾™8ëº©ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.( åØÄ8íº©ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾àÊæ8ïº©ï/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¶¾™8ğº©ï/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÿ›ıüÿÿÿÿ8öº©ï/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÄÎáåıÿÿÿÿ8øº©ï/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(‡²’™8úº©ï/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¼’ıª8üº©ï/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Ò¥³„8ÿº©ï/
+L
+java:S14815"*Remove this unused "peso3" local variable.(©ÜÙÜúÿÿÿÿ8»©ï/
+G
+java:S14816"*Remove this unused "peso2" local variable.(¼Ù8ƒ»©ï/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(â²»şûÿÿÿÿ8…»©ï/
+I
+java:S14819",Remove this unused "altura2" local variable.(ªè†8ˆ»©ï/
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(¶¾™8‰»©ï/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.( åØÄ8Š»©ï/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(Šİ¦É8Œ»©ï/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¥ú·éûÿÿÿÿ8»©ï/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(øÔåùÿÿÿÿ8“»©ï/
+T	java:S106I"9Replace this use of System.out or System.err by a logger.(¶¾™8•»©ï/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(¬‡•Ş8—»©ï/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(Šİ¦É8˜»©ï/
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(¶¾™8š»©ï/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(áÒÍ¯ûÿÿÿÿ8Ÿ»©ï/
+]	java:S125n"<This block of commented-out lines of code should be removed.(˜¤±åÿÿÿÿÿ8£»©ï/
+]	java:S125q"<This block of commented-out lines of code should be removed.(ºëüùÿÿÿÿ8¤»©ï/
+]	java:S125u"<This block of commented-out lines of code should be removed.(Àß¾şşÿÿÿÿ8¥»©ï/
+]	java:S125y"<This block of commented-out lines of code should be removed.(ŒÎŸÍùÿÿÿÿ8§»©ï/
+]	java:S125}"<This block of commented-out lines of code should be removed.(¿ŒÌŸùÿÿÿÿ8§»©ï/
+^	java:S125€"<This block of commented-out lines of code should be removed.(İÏÜüúÿÿÿÿ8¨»©ï/
+Y	java:S125…"<This block of commented-out lines of code should be removed.(ãÖÛ–8©»©ï/
+—
+java:S1192"{Define a constant instead of duplicating this literal "**********************************************************" 5 times.(¶¾™8¬»©ï/
